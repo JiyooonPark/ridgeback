@@ -1,6 +1,7 @@
 TrajectoryPlannerROS:
 
   # Robot Configuration Parameters
+  # define the velocity limits of the robot.acceleration limits of the robot.
   acc_lim_x: 10.0
   acc_lim_y: 10.0
   acc_lim_theta:  20.0
